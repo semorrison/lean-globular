@@ -1,0 +1,2589 @@
+{
+    "_t": "Project",
+    "cacheSourceTarget": null,
+    "diagram": {
+        "_t": "Diagram",
+        "cells": [
+            {
+                "_t": "NCell",
+                "box": {
+                    "max": [
+                        0,
+                        2,
+                        2,
+                        1
+                    ],
+                    "min": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "id": "5-cjvb61r6j1o",
+                "key": [
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "dimension": 5,
+        "source": {
+            "_t": "Diagram",
+            "cells": [
+                {
+                    "_t": "NCell",
+                    "box": {
+                        "max": [
+                            0,
+                            2,
+                            2
+                        ],
+                        "min": [
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "id": "4-uwsf3t0x3k9",
+                    "key": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "dimension": 4,
+            "source": {
+                "_t": "Diagram",
+                "cells": [
+                    {
+                        "_t": "NCell",
+                        "box": {
+                            "max": [
+                                0,
+                                2
+                            ],
+                            "min": [
+                                0,
+                                0
+                            ]
+                        },
+                        "id": "3-kqscf0rid9",
+                        "key": [
+                            0,
+                            0
+                        ]
+                    },
+                    {
+                        "_t": "NCell",
+                        "box": {
+                            "max": [
+                                0,
+                                2
+                            ],
+                            "min": [
+                                0,
+                                0
+                            ]
+                        },
+                        "id": "3-kqscf0rid9",
+                        "key": [
+                            0,
+                            0
+                        ]
+                    }
+                ],
+                "dimension": 3,
+                "source": {
+                    "_t": "Diagram",
+                    "cells": [
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0
+                                ],
+                                "min": [
+                                    0
+                                ]
+                            },
+                            "id": "2-o0lpa6yvg2i",
+                            "key": [
+                                0
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0
+                                ],
+                                "min": [
+                                    0
+                                ]
+                            },
+                            "id": "2-o0lpa6yvg2i",
+                            "key": [
+                                0
+                            ]
+                        }
+                    ],
+                    "dimension": 2,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [],
+                        "dimension": 1,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [],
+                                        "min": []
+                                    },
+                                    "id": "0-7ar3vx8lz56",
+                                    "key": []
+                                }
+                            ],
+                            "dimension": 0,
+                            "source": null
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "initialized": true,
+    "selected_cell": null,
+    "signature": {
+        "_t": "Signature",
+        "cells": {
+            "5-cjvb61r6j1o": {
+                "_t": "Generator",
+                "display": {
+                    "colour": "#0021dc",
+                    "rate": 1
+                },
+                "id": "5-cjvb61r6j1o",
+                "invertible": true,
+                "name": "Proof",
+                "single_thumbnail": false,
+                "source": {
+                    "_t": "Diagram",
+                    "cells": [
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "4-uwsf3t0x3k9",
+                            "key": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ],
+                    "dimension": 4,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "target": {
+                    "_t": "Diagram",
+                    "cells": [
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            },
+                            "id": "4-jc0rf5m5i9",
+                            "key": [
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                1
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    1
+                                ]
+                            },
+                            "id": "4-jc0rf5m5i9",
+                            "key": [
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    7
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    5
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                6
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    6
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    4
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                5
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    8
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    6
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                7
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    7
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    5
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                6
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    3,
+                                    9
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    7
+                                ]
+                            },
+                            "id": "Int-L",
+                            "key": [
+                                7
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    3,
+                                    11
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    9
+                                ]
+                            },
+                            "id": "4-5kym6botzcrI0",
+                            "key": [
+                                0,
+                                0,
+                                9
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    4
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    2
+                                ]
+                            },
+                            "id": "IntI0-L",
+                            "key": [
+                                2
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    6
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    4
+                                ]
+                            },
+                            "id": "4-5kym6botzcr",
+                            "key": [
+                                0,
+                                2,
+                                4
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    3,
+                                    10
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    7
+                                ]
+                            },
+                            "id": "Int-RI0",
+                            "key": [
+                                9
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    3,
+                                    11
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    8
+                                ]
+                            },
+                            "id": "Int-RI0",
+                            "key": [
+                                10
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    5
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    3
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                4
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    3,
+                                    2
+                                ]
+                            },
+                            "id": "Int-E",
+                            "key": [
+                                3,
+                                2
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    6
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    3
+                                ]
+                            },
+                            "id": "IntI0-LI0",
+                            "key": [
+                                5
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    7
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    4
+                                ]
+                            },
+                            "id": "IntI0-LI0",
+                            "key": [
+                                6
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    8
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    5
+                                ]
+                            },
+                            "id": "IntI0-RI0",
+                            "key": [
+                                7
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    9
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    6
+                                ]
+                            },
+                            "id": "IntI0-RI0",
+                            "key": [
+                                8
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    6
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    4
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                5
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    6,
+                                    5
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    3
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                4
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    2
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    0
+                                ]
+                            },
+                            "id": "Int",
+                            "key": [
+                                0
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    4,
+                                    4
+                                ],
+                                "min": [
+                                    0,
+                                    3,
+                                    1
+                                ]
+                            },
+                            "id": "Int-R",
+                            "key": [
+                                1
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    5,
+                                    5
+                                ],
+                                "min": [
+                                    0,
+                                    1,
+                                    3
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                4
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    6,
+                                    4
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    2
+                                ]
+                            },
+                            "id": "IntI0",
+                            "key": [
+                                3
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    4
+                                ],
+                                "min": [
+                                    0,
+                                    2,
+                                    0
+                                ]
+                            },
+                            "id": "4-ws3trnn6yi",
+                            "key": [
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "_t": "NCell",
+                            "box": {
+                                "max": [
+                                    0,
+                                    2,
+                                    5
+                                ],
+                                "min": [
+                                    0,
+                                    0,
+                                    0
+                                ]
+                            },
+                            "id": "4-jc0rf5m5i9I0",
+                            "key": [
+                                0,
+                                0,
+                                0
+                            ]
+                        }
+                    ],
+                    "dimension": 4,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "k": 1,
+        "n": 5,
+        "sigma": {
+            "_t": "Signature",
+            "cells": {
+                "4-5kym6botzcr": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#ffffff",
+                        "rate": 1
+                    },
+                    "id": "4-5kym6botzcr",
+                    "invertible": true,
+                    "name": "associativity",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        3
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "4-c6hae3c8ya": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#c6c6c6",
+                        "rate": 1
+                    },
+                    "id": "4-c6hae3c8ya",
+                    "invertible": true,
+                    "name": "zig zag 1",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        1
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-c543maxusqf",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "4-eoczbmekpq4": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#ffffff",
+                        "rate": 1
+                    },
+                    "id": "4-eoczbmekpq4",
+                    "invertible": true,
+                    "name": "zig zag 2",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        0
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        3
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "3-c543maxusqf",
+                                "key": [
+                                    0,
+                                    1
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "4-jc0rf5m5i9": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#ffffff",
+                        "rate": 1
+                    },
+                    "id": "4-jc0rf5m5i9",
+                    "invertible": true,
+                    "name": "definition of idempotent",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        2
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        3
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        3
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "IntI0",
+                                "key": [
+                                    2
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "Int",
+                                "key": [
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "4-uwsf3t0x3k9": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#ffffff",
+                        "rate": 1
+                    },
+                    "id": "4-uwsf3t0x3k9",
+                    "invertible": false,
+                    "name": "Theorem",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-kqscf0rid9",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "4-ws3trnn6yi": {
+                    "_t": "Generator",
+                    "display": {
+                        "colour": "#c6c6c6",
+                        "rate": 1
+                    },
+                    "id": "4-ws3trnn6yi",
+                    "invertible": true,
+                    "name": "special",
+                    "single_thumbnail": false,
+                    "source": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        0
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        1
+                                    ],
+                                    "min": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        4
+                                    ],
+                                    "min": [
+                                        0,
+                                        2
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        2
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-ozpermuvwdi",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "target": {
+                        "_t": "Diagram",
+                        "cells": [
+                            {
+                                "_t": "NCell",
+                                "box": {
+                                    "max": [
+                                        0,
+                                        0
+                                    ],
+                                    "min": [
+                                        0,
+                                        0
+                                    ]
+                                },
+                                "id": "3-x8rswrbt4m",
+                                "key": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ],
+                        "dimension": 3,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "k": 6,
+            "n": 4,
+            "sigma": {
+                "_t": "Signature",
+                "cells": {
+                    "3-c543maxusqf": {
+                        "_t": "Generator",
+                        "display": {
+                            "colour": "#2b2b2b",
+                            "rate": 1
+                        },
+                        "id": "3-c543maxusqf",
+                        "invertible": false,
+                        "name": "cap",
+                        "single_thumbnail": true,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        },
+                        "target": {
+                            "_t": "Diagram",
+                            "cells": [],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "3-kqscf0rid9": {
+                        "_t": "Generator",
+                        "display": {
+                            "colour": "#118200",
+                            "rate": 1
+                        },
+                        "id": "3-kqscf0rid9",
+                        "invertible": false,
+                        "name": "idempotent",
+                        "single_thumbnail": true,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        },
+                        "target": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "3-ozpermuvwdi": {
+                        "_t": "Generator",
+                        "display": {
+                            "colour": "#fc0000",
+                            "rate": 1
+                        },
+                        "id": "3-ozpermuvwdi",
+                        "invertible": false,
+                        "name": "multiplication",
+                        "single_thumbnail": true,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        },
+                        "target": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "3-x8rswrbt4m": {
+                        "_t": "Generator",
+                        "display": {
+                            "colour": "#2b2b2b",
+                            "rate": 1
+                        },
+                        "id": "3-x8rswrbt4m",
+                        "invertible": false,
+                        "name": "cup",
+                        "single_thumbnail": true,
+                        "source": {
+                            "_t": "Diagram",
+                            "cells": [],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        },
+                        "target": {
+                            "_t": "Diagram",
+                            "cells": [
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "_t": "NCell",
+                                    "box": {
+                                        "max": [
+                                            0
+                                        ],
+                                        "min": [
+                                            0
+                                        ]
+                                    },
+                                    "id": "2-o0lpa6yvg2i",
+                                    "key": [
+                                        0
+                                    ]
+                                }
+                            ],
+                            "dimension": 2,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    }
+                },
+                "k": 4,
+                "n": 3,
+                "sigma": {
+                    "_t": "Signature",
+                    "cells": {
+                        "2-o0lpa6yvg2i": {
+                            "_t": "Generator",
+                            "display": {
+                                "colour": "#000000",
+                                "rate": 1
+                            },
+                            "id": "2-o0lpa6yvg2i",
+                            "invertible": false,
+                            "name": "algebra",
+                            "single_thumbnail": true,
+                            "source": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            },
+                            "target": {
+                                "_t": "Diagram",
+                                "cells": [],
+                                "dimension": 1,
+                                "source": {
+                                    "_t": "Diagram",
+                                    "cells": [
+                                        {
+                                            "_t": "NCell",
+                                            "box": {
+                                                "max": [],
+                                                "min": []
+                                            },
+                                            "id": "0-7ar3vx8lz56",
+                                            "key": []
+                                        }
+                                    ],
+                                    "dimension": 0,
+                                    "source": null
+                                }
+                            }
+                        }
+                    },
+                    "k": 1,
+                    "n": 2,
+                    "sigma": {
+                        "_t": "Signature",
+                        "cells": {},
+                        "k": 0,
+                        "n": 1,
+                        "sigma": {
+                            "_t": "Signature",
+                            "cells": {
+                                "0-7ar3vx8lz56": {
+                                    "_t": "Generator",
+                                    "display": {
+                                        "colour": "#0094fc",
+                                        "rate": 1
+                                    },
+                                    "id": "0-7ar3vx8lz56",
+                                    "invertible": false,
+                                    "name": "braided category",
+                                    "single_thumbnail": true,
+                                    "source": null,
+                                    "target": null
+                                }
+                            },
+                            "k": 1,
+                            "n": 0,
+                            "sigma": null
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "view_controls": {
+        "project": 2,
+        "slices": [
+            1
+        ]
+    }
+}
