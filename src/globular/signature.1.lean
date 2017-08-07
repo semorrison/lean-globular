@@ -1,17 +1,17 @@
-inductive dependent_list (A : Type) (f : A → Type) (g : Π a : A, f a → A) : A → Type
-| nil  : Π a: A, (dependent_list a)
-| cons : Π { a : A }, Π x : f a, (dependent_list a) → dependent_list (g a x)
+inductive {u} dependent_list (A : Type u) (f : A → Type u) (g : Π a : A, f a → A) : A → A → Type (u+1)
+| nil  : Π a: A, (dependent_list a a)
+| cons : Π { a b : A }, Π x : f b, (dependent_list a b) → dependent_list a (g b x)
 
 open nat
 
-definition divisor_chain : ℕ → Type := dependent_list ℕ (λ n: ℕ, { m : ℕ // m ∣ n }) (λ _ m, m)
-definition divisor_chain.nil : Π n : ℕ, divisor_chain n := @dependent_list.nil ℕ (λ n: ℕ, { m : ℕ // m ∣ n }) (λ _ m, m)
-definition divisor_chain.cons : Π {n : ℕ}, Π m : { m // m ∣ n }, divisor_chain n → divisor_chain m := λ n m c, @dependent_list.cons ℕ (λ n: ℕ, { m : ℕ // m ∣ n }) (λ _ m, m) n m c
+definition divisor_chain : ℕ → ℕ → Type 1 := dependent_list ℕ (λ m: ℕ, { k : ℕ // k ∣ m }) (λ _ n, n)
+definition divisor_chain.nil : Π n : ℕ, divisor_chain n n := @dependent_list.nil ℕ (λ m: ℕ, { k : ℕ // k ∣ m }) (λ _ n, n)
+definition divisor_chain.cons : Π {m n : ℕ}, Π k : { k // k ∣ n }, divisor_chain m n → divisor_chain m k := λ m n k c, @dependent_list.cons _ (λ m: ℕ, { k : ℕ // k ∣ m }) _ m n k c
 
 open divisor_chain
 
-definition example_1 : divisor_chain 10 := nil 10
-definition example_2 : divisor_chain 5 := cons ⟨ 5, begin exact dec_trivial end ⟩ (nil 10)
+definition example_1 : divisor_chain 10 10 := nil 10
+definition example_2 : divisor_chain 10 5 := cons ⟨ 5, begin exact dec_trivial end ⟩ (nil 10)
 
 notation a ## b := divisor_chain.cons ⟨ a, by exact dec_trivial ⟩ b
 definition example_3 := (20 ## (nil 40))
@@ -29,9 +29,17 @@ structure {u} signature_data (Signature : Type (u+1)) (Diagram : Signature → T
 (σ : Signature)
 (s t : g → Diagram σ)
 
-structure diagram_data (n : ℕ) (Signature Diagram) (EmbeddingInto : Type) (σ : signature_data Signature Diagram) :=
-(s : Diagram σ.σ)
-(δ : list (σ.g × vector nat n))
+definition {u} embedding_chain_data (Diagram : Type u) (Rewrite : Diagram → Type u) (result : Π d : Diagram, Rewrite d → Diagram) : Diagram → Diagram → Type (u+1) :=
+dependent_list Diagram (λ d, Rewrite d) result
+
+structure {u} diagram_data
+  (Signature : Type (u+1))
+  (Diagram : Signature → Type (u+1)) 
+  (Rewrite : Π σ : Signature, Diagram σ → Type (u+1)) 
+  (result : Π σ : Signature, Π d : Diagram σ, Rewrite σ d → Diagram σ) 
+  (σ : signature_data Signature Diagram) :=
+(s t : Diagram σ.σ)
+(δ : embedding_chain_data (Diagram σ.σ) (Rewrite σ.σ) (result σ.σ) s t)
 
 structure embedding_data (Diagram Diagram' : Type) (s : Diagram → Diagram') (Embedding: Diagram' → Diagram' → Type) (S T : Diagram) :=
 (h : ℕ)
