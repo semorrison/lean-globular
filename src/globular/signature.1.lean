@@ -19,7 +19,7 @@ definition example_4 := 5 ## example_3
 -- definition example_5 := 5 ## (20 ## (nil 40))
 
 -- In this first section, we define
--- * signature data
+-- * signature_data
 -- * diagram_data
 -- * embedding_data
 -- all parametrised by dummy types, which we'll later specialise recursively into the appropriate types one level down.
